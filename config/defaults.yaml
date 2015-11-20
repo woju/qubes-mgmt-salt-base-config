@@ -19,3 +19,4 @@ salt:
   salt_api: salt-api
   salt_ssh: salt-ssh
 
+  yum_provider: yumpkg_api
